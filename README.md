@@ -9,13 +9,17 @@
     - hawaii.sqlite
     
 - Software:
-    - Anacona Version 3.7.3
+    - Python 3.8.5
     - MacOS Catalina Version 10.15.7
     - Jupyter Notebook 6.1.4
     
 ## Challenge Results:
-    - Provide a bulletted list with three major points from the two analysis deliverables.  
-    - Use images as support where needed.
+- Post image
+
+- Right away we can see that the temperatures in December tend to be cooler than June. 
+- Average temperature in December (71F) while the average temperature in June (75F).
+- June temperatures tend to stay in a closer range (73F - 77F) while December can have a little bit more change (69F - 74).
+- December can get down to as low as 56F while the low in June can get down to 64F.
 
 ## Challenge Summary:
 
