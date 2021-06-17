@@ -28,7 +28,7 @@ The weather on Oahu provides enough warmth for plenty of outside activities, esp
 
 ### Possible additional queries
 
-If we wanted to go further on the analysis I would recommend looking at the amount of precipitation during the months of June and December.  This analysis could give us an idea of how much rain we can expect during those months. Having an idea of how much rain we could encouner might be a big help to how we plan the activites for the shop.
+If we wanted to go further on the analysis, I would recommend looking at the amount of precipitation during the months of June and December.  This analysis could give us an idea of how much rain we can expect during those months. It can still be warm and rain!  Having an idea of how much rain we could encouner might be a big help to how we plan the activites for the shop.
 
 ![june_dec_prcp](https://user-images.githubusercontent.com/36451701/122453863-b08d2f80-cf78-11eb-9f67-b41a9d666f8d.png)
 
