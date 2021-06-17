@@ -1,7 +1,7 @@
 # surfs_up_new
 
 ## Challenge Overview:
-*After a trip to Hawaii, I have determined that I want to live on the island of Oahu forever (who doesn't). My plan is to move to Oahu and open a shop that sells surfboards and shakes.  I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor who is a surfer and loves the idea of the shop.  However, before he is ready to invest in my shop, he has some concerns about the weather there.  He wants me to perform an analysis on some Hawaiian temperature data.  Specifically, he would like an analysis for the weather in the months of June and December.*
+*After a trip to Hawaii, I have determined that I want to live on the island of Oahu forever (who doesn't). My plan is to move to Oahu and open a shop that sells surfboards and shakes.  I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor, who is a surfer, and loves the idea of the shop.  However, before he is ready to invest in my shop, he has some concerns about the weather there.  He wants me to perform an analysis on some Hawaiian temperature data.  Specifically, he would like an analysis for the weather in the months of June and December.*
 
 
 ### Resources
@@ -15,8 +15,7 @@
     
 ## Challenge Results:
 
-![june_dec_df](https://user-images.githubusercontent.com/36451701/122453389-4c6a6b80-cf78-11eb-9b6c-4899775684db.png)
-
+![june_dec_tobs](https://user-images.githubusercontent.com/36451701/122454529-7ff9c580-cf79-11eb-9e68-46193324a60a.png)
 
 - Right away we can see that the temperatures in December tend to be cooler than June. 
 - Average temperature in December is a mild (71F) while the average temperature in June run a bit warmer (75F).
