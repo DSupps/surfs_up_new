@@ -24,7 +24,7 @@
 
 ## Challenge Summary:
 
-The weather on Oahu provides enough warmth for plenty of outside activities, especially at beach! The month of June looks a prime month for both surfing and cold ice cream making it the perfect month to have grand opening.  Decemeber has it's beautiful days as well, but can also have some days where it's not ideal for surfing and ice cream.  Overall, a surf and shake shop on the island of Oahu seems like a match made in heaven if I do say so myself.  
+The weather on Oahu provides enough warmth for plenty of outside activities, especially at beach! The month of June looks a prime month for both surfing and cold ice cream, making it the perfect month to have the grand opening.  Decemeber has it's warm weather too, but can also have some days where it's not ideal for surfing and ice cream.  Overall, a surf and shake shop on the island of Oahu seems like a match made in heaven if I do say so myself.  
 
 ### Possible additional queries
 
