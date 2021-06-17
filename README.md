@@ -1,7 +1,7 @@
 # surfs_up_new
 
 ## Challenge Overview:
-*I have just visted Hawaii and you determine that I want to live on Oahu forever (who doesn't). My plan is move there and open a shop that sells surfboards and shakes to the locals, tourists, and myself. I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor who is a surfer and loves the idea.  However, before he is ready to invest in my shop, he has some concerns about the weather he would like cleared up.  He is giving me some data and wants me to perform an analysis for temperatures in Hawaii.  Specifically, he would like analysis for the months of June and December.*
+*After a trip to Hawaii, I have determined that I want to live on the island of Oahu forever (who doesn't). My plan is to move to Oahu and open a shop that sells surfboards and shakes.  I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor who is a surfer and loves the idea of the shop.  However, before he is ready to invest in my shop, he has some concerns about the weather there.  He wants me to perform an analysis on some Hawaiian temperature data.  Specifically, he would like an analysis for the weather in the months of June and December.*
 
 
 ### Resources
@@ -17,12 +17,15 @@
 - Post image
 
 - Right away we can see that the temperatures in December tend to be cooler than June. 
-- Average temperature in December (71F) while the average temperature in June (75F).
-- June temperatures tend to stay in a closer range (73F - 77F) while December can have a little bit more change (69F - 74).
+- Average temperature in December is a mild (71F) while the average temperature in June run a bit warmer (75F).
+- June temperatures tend to stay constant in the range (73F - 77F) while December can have a little bit more change (69F - 74).
 - December can get down to as low as 56F while the low in June can get down to 64F.
 
 ## Challenge Summary:
 
-    - Provide a high-level summary of the results
-    - Two additional queries that you would perform to gather more weather data for June and December
+The weather on Oahu provides enough warmth for plenty of outside activities, especially at beach! The month of June looks a prime month for both surfing and cold ice cream making it the perfect month to have grand opening.  Decemeber has it's beautiful days as well, but can also have some days where it's not ideal for surfing and ice cream.  Overall, a surf and shake shop on the island of Oahu seems like a match made in heaven if I do say so myself.  
+
+### Possible additional queries
+
+If we wanted to go further on the analysis I would recommend looking at the amount of precipitation during the months of June and December.  This analysis could give us an idea of how much rain we can expect during those months. Having an idea of how much rain we could encouner might be a big help to how we plan the activites for the shop.
 
