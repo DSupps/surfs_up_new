@@ -17,7 +17,7 @@ Analyze the temperature trends for the months of June and December in Oahu, in o
     - MacOS Catalina Version 10.15.7
     - Jupyter Notebook 6.1.4
     
-## Challenge Results:
+## Project Results:
 
 ![june_dec_tobs](https://user-images.githubusercontent.com/36451701/122454529-7ff9c580-cf79-11eb-9e68-46193324a60a.png)
 
