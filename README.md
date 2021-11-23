@@ -3,8 +3,10 @@
 ![surfs_up](https://user-images.githubusercontent.com/36451701/142957278-96487c83-2173-4e90-af7d-e386b2b4c2bc.png)
 
 ## Project Overview:
-*After a trip to Hawaii, I have determined that I want to live on the island of Oahu forever (who doesn't). My plan is to move to Oahu and open a shop that sells surfboards and shakes.  I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor, who is a surfer, and loves the idea of the shop.  However, before he is ready to invest in my shop, he has some concerns about the weather there.  He wants me to perform an analysis on some Hawaiian temperature data.  Specifically, he would like an analysis for the weather in the months of June and December.*
+Analyze the temperature trends for the months of June and December in Oahu, in order to evaluate the year-round sustainability of a surf and ice cream shop business.
 
+### Project Analytical Challange:
+*After a trip to Hawaii, I have determined that I want to live on the island of Oahu forever (who doesn't). My plan is to move to Oahu and open a shop that sells surfboards and shakes.  I have some savings that can be used, but I will need some serious investor backing to make the shop a reality. I just had a great meeting with a potentional investor, who is a surfer, and loves the idea of the shop.  However, before he is ready to invest in my shop, he has some concerns about the weather there.  He wants me to perform an analysis on some Hawaiian temperature data.  Specifically, he would like an analysis for the weather in the months of June and December.*
 
 ### Resources
 - Data Sources:
