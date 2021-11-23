@@ -26,7 +26,7 @@ Analyze the temperature trends for the months of June and December in Oahu, in o
 - June temperatures tend to stay constant in the range (73F - 77F) while December can have a little bit more change (69F - 74).
 - December can get down to as low as 56F while the low in June can get down to 64F.
 
-## Challenge Summary:
+## Project Summary:
 
 The weather on Oahu provides enough warmth for plenty of outside activities, especially at beach! The month of June looks a prime month for both surfing and cold ice cream. In fact, you could say that June might make the perfect month to have the grand opening.  Decemeber has warm weather too, but it can also have some days where it's not ideal for surfing and ice cream.  I wouldn't be too worried too much about cold weather though.  According to the data, those type of days have not been a common occurence.  Overall, a surf and shake shop on the island of Oahu seems like a match made in heaven if I do say so myself.  Although, I would order some extra cookie dough flavor before I come to visit!
 
